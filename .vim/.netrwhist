@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/david/a'
+let g:netrw_dirhist_2='/home/david/Documents/code/Javascript/seqtest/node_modules/sequelize/lib/dialects/mysql'
+let g:netrw_dirhist_3='/usr/share/pkgconfig'
+let g:netrw_dirhist_4='/home/david/git/remote-access-site/lib'
