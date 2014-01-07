@@ -1,2 +1,0 @@
-(function(){function a(){document&&document.body?window!=window.top&&d.listen(document,"mousedown",function(a){var c=rb();c&&rc(c,a)||b.postMessage(new ja)},!1):15>++e&&(window.setTimeout(a,100),Ta("tblf.htsa"))}window.google=window.google||{};window.google.htsa=window.google.htsa||{};if(!window.google.htsa.hb){window.google.htsa.hb=!0;var b=chrome.extension.connect({name:"htsaTriggerToBackground"}),c=new yc(b,document),d=new Z;b.onDisconnect.addListener(function(){c.Da();d.removeAll();window.google.htsa.hb=
-!1});var e=0;a()}})();
