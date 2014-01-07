@@ -1,0 +1,134 @@
+{
+   "components_0": {
+      "message": "D\u016Fv\u011Bryhodnost"
+   },
+   "components_1": {
+      "message": "Spolehlivost poskytovatele"
+   },
+   "components_2": {
+      "message": "Ochrana osobn\u00EDch dat"
+   },
+   "components_4": {
+      "message": "Bezpe\u010Dnost d\u011Bt\u00ED"
+   },
+   "components__short_0": {
+      "message": "D\u016Fv\u011Bryhodnost"
+   },
+   "components__short_1": {
+      "message": "Spolehl. poskytov."
+   },
+   "components__short_2": {
+      "message": "Ochrana osob. dat"
+   },
+   "components__short_4": {
+      "message": "Bezpe\u010Dnost d\u011Bt\u00ED"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "Open WOT scorecard"
+   },
+   "ext_description": {
+      "message": "N\u00E1stroj WOT v\u00E1m uk\u00E1\u017Ee, kter\u00FDm str\u00E1nk\u00E1m m\u016F\u017Eete d\u016Fv\u011B\u0159ovat na z\u00E1klad\u011B zku\u0161enost\u00ED mili\u00F3n\u016F u\u017Eivatel\u016F po cel\u00E9m sv\u011Bt\u011B."
+   },
+   "lang": {
+      "message": "cs-CZ"
+   },
+   "locale": {
+      "message": "cs"
+   },
+   "messages_failed": {
+      "message": "Na\u010Dten\u00ED hodnocen\u00ED se nezda\u0159ilo; pokus bude zanedlouho opakov\u00E1n."
+   },
+   "messages_initializing": {
+      "message": "Prob\u00EDh\u00E1 inicializace WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "Na\u010D\u00EDt\u00E1n\u00ED hodnocen\u00ED\u2026"
+   },
+   "messages_notavailable": {
+      "message": "Hodnocen\u00ED nejsou dostupn\u00E1."
+   },
+   "messages_notready": {
+      "message": "Aktivace dopl\u0148ku WOT\u2026"
+   },
+   "ratingwindow_addcomment": {
+      "message": "P\u0159idat koment\u00E1\u0159"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_guide": {
+      "message": "P\u0159\u00EDru\u010Dka"
+   },
+   "ratingwindow_helplink": {
+      "message": "Zanechat koment\u00E1\u0159?"
+   },
+   "ratingwindow_helptext": {
+      "message": "V\u00E1\u0161 \u00FAdaj se li\u0161\u00ED."
+   },
+   "ratingwindow_inpartnership": {
+      "message": "Ve spolupr\u00E1ci s"
+   },
+   "ratingwindow_myrating": {
+      "message": "Moje hodnocen\u00ED"
+   },
+   "ratingwindow_newversion": {
+      "message": "K dispozici je nov\u00E1 verze - kliknut\u00EDm sem prove\u010Fte aktualizaci"
+   },
+   "ratingwindow_settings": {
+      "message": "Nastaven\u00ED"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "Zobrazit v\u00FDsledky s detaily hodnocen\u00ED"
+   },
+   "ratingwindow_wotrating": {
+      "message": "Hodnocen\u00ED WOT"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "Velmi \u0161patn\u00E1"
+   },
+   "reputationlevels_r2": {
+      "message": "\u0160patn\u00E1"
+   },
+   "reputationlevels_r3": {
+      "message": "Neuspokojiv\u00E1"
+   },
+   "reputationlevels_r4": {
+      "message": "Dobr\u00E1"
+   },
+   "reputationlevels_r5": {
+      "message": "Excelentn\u00ED"
+   },
+   "warnings_back": {
+      "message": "Vr\u00E1tit se zp\u011Bt"
+   },
+   "warnings_goto": {
+      "message": "Pokra\u010Dovat"
+   },
+   "warnings_gotosite": {
+      "message": "Ignorovat varov\u00E1n\u00ED a vstoupit na str\u00E1nku"
+   },
+   "warnings_information": {
+      "message": "Zobrazit hodnocen\u00ED a koment\u00E1\u0159e"
+   },
+   "warnings_leave": {
+      "message": "Opustit str\u00E1nku"
+   },
+   "warnings_ratesite": {
+      "message": "Tato str\u00E1nka je bezpe\u010Dn\u00E1 - Chci \u003Ca\u003Eji ohodnotit\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "Dali jste t\u00E9to str\u00E1nce \u0161patn\u00E9 hodnocen\u00ED, co\u017E spustilo varov\u00E1n\u00ED"
+   },
+   "warnings_reputation": {
+      "message": "Reputace t\u00E9to str\u00E1nky je \u0161patn\u00E1"
+   },
+   "warnings_unknown": {
+      "message": "Hodnocen\u00ED t\u00E9to str\u00E1nky nen\u00ED zn\u00E1mo"
+   },
+   "warnings_warning": {
+      "message": "Varov\u00E1n\u00ED!"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://neave.com/planetarium/app/"
+      },
+      "urls": [ "http://neave.com/planetarium/app/" ]
+   },
+   "description": "An interactive sky map for exploring the stars and planets.",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/Tqh2k3iiwsO0szVVY4KAf6LTbWbfTJvp5Nu8zvkbd5WjSf6GTHSJndOr2rnrWBJKHgH1QFDc36NEhaPtr/L1PNitKx8cTIJ/LuJwFtd4x6qT5/EQqDk8/6rFeE5Z/kk/sn8uslx1MzzxluyhBVcZzBRUxlBgqwnbCItFG+1hEQIDAQAB",
+   "manifest_version": 2,
+   "name": "Planetarium",
+   "offline_enabled": true,
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1.2"
+}

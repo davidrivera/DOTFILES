@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="browser_action.css" type="text/css">
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/moment.min.js"></script>
+    <script src="lib/moment.lang-all.min.js"></script>
+    <script src="utils.js"></script>
+    <script src="browser_action.js"></script>
+  </head>
+  <body>
+    <a id="logo" data-href="calendar_ui_url" target="_blank">
+      <img src="icons/google-logo.png" width="70" height="24" alt="Google">
+      <span class="i18n" id="logo_text">Calendar</span>
+    </a>
+    <div class="actionbar">
+      <img src="icons/sync.svg" id="sync_now" class="i18n">
+    </div>
+    <div class="tabstrip">
+      &nbsp;
+      <a class="i18n" id="view_agenda">Agenda</a>
+      <a id="add-events"> + </a>
+    </div>
+    <div class="tab-container">
+      <div class="tab" id="agenda">
+        <div id="error">
+          <a data-href="calendar_ui_url" target="_blank">
+            <span class="i18n" id="authorization_required"></span>
+          </a>
+        </div>
+      </div>
+      <div class="tab" id="events">
+        <div id="manual-add">
+          <div class="date-header i18n" id="add_an_event">Add an Event</div>
+          <textarea id="event-title" style="width:100%" rows="8" tabindex="1"></textarea>
+          <button id="add_button" style="float:right" class="kd-button i18n" tabindex="2">Add</button>
+        </div>
+        <div id="events-list"></div>
+      </div>
+    </div>
+  </body>
+</html>

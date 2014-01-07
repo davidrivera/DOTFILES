@@ -1,0 +1,96 @@
+[000:000] [o1d3875-1] Listening for HELLO.
+[000:003] [o1d3875-2] Listening for HELLO.
+[000:012] [o1d3875-3] Listening for HELLO.
+[000:014] [o1d3875-4] Listening for HELLO.
+[000:022] [o1d3875-5] Listening for HELLO.
+[000:024] [o1d3875-6] Listening for HELLO.
+[000:090] [o1d3875-6] Client connected.
+[000:090] [o1d3875-6] Registered new shared memory segment at 100
+[000:102] [o1d3875-2] Client connected.
+[000:102] [o1d3875-2] Registered new shared memory segment at 101
+[000:113] [o1d3875-4] Client connected.
+[000:113] [o1d3875-4] Registered new shared memory segment at 102
+[000:157] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:158] [o1d3875-7] Listening for HELLO.
+[000:160] [o1d3875-8] Listening for HELLO.
+[000:179] [o1d3875-4] Sending rendering size change: 112x0
+[000:179] [o1d3875-4] Unmapping shared mem: 102
+[000:179] Created new pool buffer at 0x13b2ea125000, 57600 bytes
+[000:179] [o1d3875-4] Registered new shared memory segment at 103
+[000:193] [o1d3875-8] Client connected.
+[000:193] [o1d3875-8] Registered new shared memory segment at 104
+[000:214] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:292] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:306] [o1d3875-4] Sending rendering size change: 199x112
+[000:557] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:590] [o1d3875-6] Sending rendering size change: 112x0
+[000:590] [o1d3875-6] Unmapping shared mem: 100
+[000:590] Created new pool buffer at 0x13b2ea137000, 36480 bytes
+[000:590] [o1d3875-6] Registered new shared memory segment at 105
+[000:623] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:631] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:644] [o1d3875-2] Sending rendering size change: 112x0
+[000:656] [o1d3875-8] Sending rendering size change: 1421x0
+[000:664] [o1d3875-2] Unmapping shared mem: 101
+[000:664] Created new pool buffer at 0x13b2ea141000, 32640 bytes
+[000:664] [o1d3875-2] Registered new shared memory segment at 106
+[000:823] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:823] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:830] Error(plugin.cc:262): libyuv scale failed (-1)
+[000:839] [o1d3875-6] Sending rendering size change: 71x112
+[000:843] [o1d3875-2] Sending rendering size change: 198x112
+[001:253] Error(plugin.cc:262): libyuv scale failed (-1)
+[001:274] [o1d3875-8] Sending rendering size change: 1342x760
+[004:527] [o1d3875-7] Client connected.
+[004:527] [o1d3875-7] Registered new shared memory segment at 107
+[004:593] [o1d3875-7] Sending rendering size change: 1342x760
+[004:787] [o1d3875-8] Sending rendering size change: 482x760
+[004:787] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Connection reset by peer
+[004:787] [o1d3875-7] Sending rendering size change: 482x760
+[004:796] [o1d3875-8] Client disconnected.
+[004:796] Created new pool buffer at 0x13b2ea154000, 522240 bytes
+[004:796] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Broken pipe
+[006:979] Error(naclhelpers.cc:170): nacl::ReceiveMessage failed : Connection reset by peer
+[006:979] Error(flutemessagelistener.cc:316): [o1d3875-6] Failure to receive datagrams.
+[007:012] [o1d3875-6] Client disconnected.
+[007:012] Created new pool buffer at 0x13b2ea1d6000, 145920 bytes
+[007:012] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Broken pipe
+[007:012] Error(naclhelpers.cc:170): nacl::ReceiveMessage failed : Connection reset by peer
+[007:012] Error(flutemessagelistener.cc:316): [o1d3875-7] Failure to receive datagrams.
+[007:045] [o1d3875-7] Client disconnected.
+[007:045] Created new pool buffer at 0x13b2ea22d000, 145920 bytes
+[007:045] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Broken pipe
+[018:622] [o1d3875-8] Client connected.
+[018:622] [o1d3875-8] Registered new shared memory segment at 108
+[019:067] [o1d3875-8] Sending rendering size change: 1342x760
+[019:397] [o1d3875-6] Shutting down instance.
+[019:397] [o1d3875-6] Client disconnected.
+[019:398] [o1d3875-5] Shutting down instance.
+[019:398] [o1d3875-5] Client disconnected.
+[138:944] [o1d3875-8] Sending rendering size change: 892x506
+[1020:593] Error(naclhelpers.cc:170): nacl::ReceiveMessage failed : Connection reset by peer
+[1020:593] Error(flutemessagelistener.cc:316): [o1d3875-4] Failure to receive datagrams.
+[1020:593] Error(naclhelpers.cc:170): nacl::ReceiveMessage failed : Connection reset by peer
+[1020:593] Error(flutemessagelistener.cc:316): [o1d3875-8] Failure to receive datagrams.
+[1020:594] Error(naclhelpers.cc:170): nacl::ReceiveMessage failed : Connection reset by peer
+[1020:594] Error(flutemessagelistener.cc:316): [o1d3875-2] Failure to receive datagrams.
+[1020:598] [o1d3875-8] Shutting down instance.
+[1020:598] [o1d3875-8] Attached client while shutting down; sending shutdown notification.
+[1020:598] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Broken pipe
+[1020:598] [o1d3875-8] Client disconnected.
+[1020:600] [o1d3875-7] Shutting down instance.
+[1020:600] [o1d3875-7] Client disconnected.
+[1020:626] [o1d3875-4] Client disconnected.
+[1020:626] Created new pool buffer at 0x13b2ea153000, 230400 bytes
+[1020:626] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Broken pipe
+[1020:627] [o1d3875-2] Client disconnected.
+[1020:627] Created new pool buffer at 0x13b2ea1d6000, 130560 bytes
+[1020:627] Error(naclhelpers.cc:62): nacl::SendDatagram failed : Broken pipe
+[1020:840] [o1d3875-1] Shutting down instance.
+[1020:840] [o1d3875-1] Client disconnected.
+[1020:840] [o1d3875-2] Shutting down instance.
+[1020:840] [o1d3875-2] Client disconnected.
+[1020:841] [o1d3875-3] Shutting down instance.
+[1020:841] [o1d3875-3] Client disconnected.
+[1020:841] [o1d3875-4] Shutting down instance.
+[1020:841] [o1d3875-4] Client disconnected.

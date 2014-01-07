@@ -1,0 +1,212 @@
+/*
+	popup.css
+	Copyright © 2009-2011  WOT Services Oy <info@mywot.com>
+
+	This file is part of WOT.
+
+	WOT is free software: you can redistribute it and/or modify it
+	under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	WOT is distributed in the hope that it will be useful, but WITHOUT
+	ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+	or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public
+	License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with WOT. If not, see <http://www.gnu.org/licenses/>.
+*/
+
+.wot-popup-layer {
+	border: 0 ! important;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	z-index: 2147483647;
+	width: 136px;
+	cursor: default;
+	-webkit-user-select: none;
+}
+#wot-logo {
+	background: url("../fusion/popup-logo.png") top left no-repeat;
+	display: block;
+	height: 21px;
+	margin: 0;
+	padding: 0;
+}
+#wot-logo.accessible {
+	background: url("../fusion/accessible/popup-logo.png") top left no-repeat;
+}
+#wot-ratings, .wot-ratings {
+	background: url("../fusion/popup.png") bottom left no-repeat;
+	display: block;
+	height: 214px;
+	margin: 0;
+	padding: 0;
+}
+.wot-stack {
+	display: block;
+	height: 50px;
+	width: 121px;
+	margin: 0px 0px 0px 2px;
+	padding: 2px 0px 0px 9px;
+}
+.wot-header {
+	color: #878787;
+	display: block;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 14px;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	text-align: left;
+	white-space: nowrap;
+	width: 109px;
+}
+.wot-rep {
+	background: url("../fusion/28_28/r0.png") left top no-repeat;
+	display: block;
+	height: 28px;
+	width: 28px;
+	margin: 2px 0px 0px 1px;
+	padding: 0;
+	float: left;
+}
+.wot-rep[reputation="rx"] {
+	background: url("../fusion/28_28/rx.png") left top no-repeat;
+}
+.wot-rep[reputation="r1"] {
+	background: url("../fusion/28_28/r1.png") left top no-repeat;
+}
+.wot-rep[reputation="r2"] {
+	background: url("../fusion/28_28/r2.png") left top no-repeat;
+}
+.wot-rep[reputation="r3"] {
+	background: url("../fusion/28_28/r3.png") left top no-repeat;
+}
+.wot-rep[reputation="r4"] {
+	background: url("../fusion/28_28/r4.png") left top no-repeat;
+}
+.wot-rep[reputation="r5"] {
+	background: url("../fusion/28_28/r5.png") left top no-repeat;
+}
+.wot-rep.accessible {
+	background: url("../fusion/accessible/28_28/r0.png") left top no-repeat;
+}
+.wot-rep.accessible[reputation="rx"] {
+	background: url("../fusion/28_28/rx.png") left top no-repeat;
+}
+.wot-rep.accessible[reputation="r1"] {
+	background: url("../fusion/accessible/28_28/r1.png") left top no-repeat;
+}
+.wot-rep.accessible[reputation="r2"] {
+	background: url("../fusion/accessible/28_28/r2.png") left top no-repeat;
+}
+.wot-rep.accessible[reputation="r3"] {
+	background: url("../fusion/accessible/28_28/r3.png") left top no-repeat;
+}
+.wot-rep.accessible[reputation="r4"] {
+	background: url("../fusion/accessible/28_28/r4.png") left top no-repeat;
+}
+.wot-rep.accessible[reputation="r5"] {
+	background: url("../fusion/accessible/28_28/r5.png") left top no-repeat;
+}
+.wot-cnf {
+	background: url("../fusion/confidence-0.png") right top no-repeat;
+	display: block;
+	height: 18px;
+	width: 51px;
+	margin: 6px 32px 0px 0px;
+	padding: 0;
+	float: right;
+}
+.wot-cnf[confidence="c1"] {
+	background: url("../fusion/confidence-1.png") right top no-repeat;
+}
+.wot-cnf[confidence="c2"] {
+	background: url("../fusion/confidence-2.png") right top no-repeat;
+}
+.wot-cnf[confidence="c3"] {
+	background: url("../fusion/confidence-3.png") right top no-repeat;
+}
+.wot-cnf[confidence="c4"] {
+	background: url("../fusion/confidence-4.png") right top no-repeat;
+}
+.wot-cnf[confidence="c5"] {
+	background: url("../fusion/confidence-5.png") right top no-repeat;
+}
+
+/* small hints about user's ratings on the popup */
+.wot-pp-tr,
+.wot-pp-cs {
+    position: relative;
+    width: 0;
+    height: 0;
+    bottom: 7px;
+    left: 1px;
+    border: 4px solid transparent;
+    /*border-left-color: red;*/
+    /*border-bottom-color: red;*/
+}
+
+.wot-pp-cs {
+    right: 6px;
+    left: auto;
+    margin-left: auto;
+    bottom: 15px;
+    /*border-left-color: transparent;*/
+    /*border-right-color: red;*/
+}
+
+.wot-pp-tr[r="r1"] {
+    border-left-color: #fd0000;
+    border-bottom-color: #fd0000;
+}
+
+.wot-pp-cs[r="r1"] {
+    border-right-color: #fd0000;
+    border-bottom-color: #fd0000;
+}
+
+.wot-pp-tr[r="r2"] {
+    border-left-color: #ff9f75;
+    border-bottom-color: #ff9f75;
+}
+
+.wot-pp-cs[r="r2"] {
+    border-right-color: #ff9f75;
+    border-bottom-color: #ff9f75;
+}
+
+.wot-pp-tr[r="r3"] {
+    border-left-color: #ffd100;
+    border-bottom-color: #ffd100;
+}
+
+.wot-pp-cs[r="r3"] {
+    border-right-color: #ffd100;
+    border-bottom-color: #ffd100;
+}
+
+.wot-pp-tr[r="r4"] {
+    border-left-color: #a7df21;
+    border-bottom-color: #a7df21;
+}
+
+.wot-pp-cs[r="r4"] {
+    border-right-color: #a7df21;
+    border-bottom-color: #a7df21;
+}
+
+.wot-pp-tr[r="r5"] {
+    border-left-color: #68c800;
+    border-bottom-color: #68c800;
+}
+
+.wot-pp-cs[r="r5"] {
+    border-right-color: #68c800;
+    border-bottom-color: #68c800;
+}

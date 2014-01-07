@@ -1,0 +1,137 @@
+{
+   "components_0": {
+      "message": "D\u00FCr\u00FCstl\u00FCk"
+   },
+   "components_1": {
+      "message": "Sa\u011Flay\u0131c\u0131 g\u00FCvenli\u011Fi"
+   },
+   "components_2": {
+      "message": "Gizlilik"
+   },
+   "components_4": {
+      "message": "\u00C7ocuk g\u00FCvenli\u011Fi"
+   },
+   "components__short_0": {
+      "message": "D\u00FCr\u00FCstl\u00FCk"
+   },
+   "components__short_1": {
+      "message": "Sa\u011Flay\u0131c\u0131 g\u00FCvenli\u011Fi"
+   },
+   "components__short_2": {
+      "message": "Gizlilik"
+   },
+   "components__short_4": {
+      "message": "\u00C7ocuk g\u00FCvenli\u011Fi"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "WOT skor kart\u0131n\u0131 a\u00E7"
+   },
+   "ext_description": {
+      "message": "WOT oylamalar\u0131, global anlamda milyonlarca kullan\u0131c\u0131n\u0131n deneyimleri ile milyonlarca web sayfas\u0131n\u0131n oylanmas\u0131 ile geli\u015Ftirilmi\u015Ftir."
+   },
+   "lang": {
+      "message": "tr-TR"
+   },
+   "locale": {
+      "message": "tr"
+   },
+   "messages_failed": {
+      "message": "Oylar\u0131 y\u00FCklemek ba\u015Far\u0131s\u0131z oldu; hemen tekrar deneniyor."
+   },
+   "messages_initializing": {
+      "message": "WOT ba\u015Flat\u0131l\u0131yor\u2026"
+   },
+   "messages_loading": {
+      "message": "Oylar y\u00FCkleniyor..."
+   },
+   "messages_notavailable": {
+      "message": "Oylar eri\u015Filebilir de\u011Fil."
+   },
+   "messages_notready": {
+      "message": "WOT\u2026 etkinle\u015Ftiriliyor"
+   },
+   "ratingwindow_addcomment": {
+      "message": "Yorumunuzu ekleyin"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_guide": {
+      "message": "Rehber"
+   },
+   "ratingwindow_helplink": {
+      "message": "Yorum b\u0131rak\u0131n?"
+   },
+   "ratingwindow_helptext": {
+      "message": "Oyunuz benze\u015Fmiyor."
+   },
+   "ratingwindow_inpartnership": {
+      "message": "Ortak oldu\u011Fu yer"
+   },
+   "ratingwindow_invite_rw": {
+      "message": "You can rate websites using this tool. Click on the colored bars to express how much you trust a website."
+   },
+   "ratingwindow_myrating": {
+      "message": "Oyum"
+   },
+   "ratingwindow_newversion": {
+      "message": "Yeni s\u00FCr\u00FCm mevcut - g\u00FCncellemek i\u00E7in buraya t\u0131klay\u0131n"
+   },
+   "ratingwindow_settings": {
+      "message": "Ayarlar"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "Oy detaylar\u0131 i\u00E7in puan kart\u0131n\u0131 g\u00F6ster"
+   },
+   "ratingwindow_wotrating": {
+      "message": "WOT oyu"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "\u00C7ok k\u00F6t\u00FC"
+   },
+   "reputationlevels_r2": {
+      "message": "D\u00FC\u015F\u00FCk"
+   },
+   "reputationlevels_r3": {
+      "message": "Tatmin edici de\u011Fil"
+   },
+   "reputationlevels_r4": {
+      "message": "\u0130yi"
+   },
+   "reputationlevels_r5": {
+      "message": "M\u00FCkemmel"
+   },
+   "warnings_back": {
+      "message": "Geri git"
+   },
+   "warnings_goto": {
+      "message": "Siteye gite"
+   },
+   "warnings_gotosite": {
+      "message": "Uyar\u0131y\u0131 yoksay ve siteye git"
+   },
+   "warnings_information": {
+      "message": "Oylama detaylar\u0131na ve yorumlara bak\u0131n"
+   },
+   "warnings_leave": {
+      "message": "Siteden ayr\u0131l"
+   },
+   "warnings_ratesite": {
+      "message": "Bu site g\u00FCvenli - Onu oylamak istiyorum"
+   },
+   "warnings_rating": {
+      "message": "Bu siteye uyar\u0131ya sebep olan \u003Cbr /\u003Ed\u00FC\u015F\u00FCk bir oy verdiniz"
+   },
+   "warnings_reputation": {
+      "message": "Bu site kullan\u0131c\u0131 oylar\u0131na g\u00F6re\u003Cbr/\u003E k\u00F6t\u00FC bir \u00FCne sahip"
+   },
+   "warnings_unknown": {
+      "message": "Bu site bilinmeyen bir oylamaya sahip"
+   },
+   "warnings_warning": {
+      "message": "Uyar\u0131!"
+   }
+}

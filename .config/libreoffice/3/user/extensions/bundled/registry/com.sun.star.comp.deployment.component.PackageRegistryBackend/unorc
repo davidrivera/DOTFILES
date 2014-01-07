@@ -1,0 +1,3 @@
+ORIGIN=$BUNDLED_EXTENSIONS_USER/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+UNO_SERVICES=?$BUNDLED_EXTENSIONS/presenter-screen/components.rdb ?$BUNDLED_EXTENSIONS/presentation-minimizer/components.rdb ?$BUNDLED_EXTENSIONS/pdfimport/components.rdb
+LIBO_NON_PREREG_BUNDLED_EXTENSIONS=TRUE

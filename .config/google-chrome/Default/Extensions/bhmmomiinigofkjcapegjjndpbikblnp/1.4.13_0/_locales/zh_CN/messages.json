@@ -1,0 +1,134 @@
+{
+   "components_0": {
+      "message": "\u53EF\u4FE1\u7A0B\u5EA6"
+   },
+   "components_1": {
+      "message": "\u4F9B\u5E94\u5546\u53EF\u9760\u6027"
+   },
+   "components_2": {
+      "message": "\u9690\u79C1"
+   },
+   "components_4": {
+      "message": "\u513F\u7AE5\u5B89\u5168\u6027"
+   },
+   "components__short_0": {
+      "message": "\u53EF\u4FE1\u7A0B\u5EA6"
+   },
+   "components__short_1": {
+      "message": "\u4F9B\u5E94\u5546\u53EF\u9760\u6027"
+   },
+   "components__short_2": {
+      "message": "\u9690\u79C1"
+   },
+   "components__short_4": {
+      "message": "\u513F\u7AE5\u5B89\u5168\u6027"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "Open WOT scorecard"
+   },
+   "ext_description": {
+      "message": "WOT \u6839\u636E\u4E16\u754C\u5404\u5730\u6570\u767E\u4E07\u7528\u6237\u7684\u7ECF\u9A8C\u5411\u60A8\u663E\u793A\u60A8\u53EF\u4EE5\u4FE1\u4EFB\u7684\u7F51\u7AD9\u3002WOT \u4F7F\u7528\u5FEB\u901F\u65B9\u4FBF\uFF0C\u800C\u4E14\u5B8C\u5168\u514D\u8D39\u3002"
+   },
+   "lang": {
+      "message": "zh-CN"
+   },
+   "locale": {
+      "message": "zh_CN"
+   },
+   "messages_failed": {
+      "message": "\u672A\u80FD\u52A0\u8F7D\u8BC4\u7EA7\uFF1B\u5C06\u7ACB\u5373\u91CD\u8BD5\u3002"
+   },
+   "messages_initializing": {
+      "message": "\u6B63\u5728\u521D\u59CB\u5316 WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "\u6B63\u5728\u52A0\u8F7D\u8BC4\u7EA7\u2026"
+   },
+   "messages_notavailable": {
+      "message": "\u8BC4\u7EA7\u4E0D\u53EF\u7528\u3002"
+   },
+   "messages_notready": {
+      "message": "\u6B63\u5728\u6FC0\u6D3B WOT\u2026"
+   },
+   "ratingwindow_addcomment": {
+      "message": "\u6DFB\u52A0\u8BC4\u8BBA"
+   },
+   "ratingwindow_forum": {
+      "message": "\u8BBA\u575B"
+   },
+   "ratingwindow_guide": {
+      "message": "\u6307\u5357"
+   },
+   "ratingwindow_helplink": {
+      "message": "\u7559\u4E0B\u8BC4\u8BBA?"
+   },
+   "ratingwindow_helptext": {
+      "message": "\u60A8\u7684\u8BC4\u7EA7\u4E0D\u4E00\u81F4\u3002"
+   },
+   "ratingwindow_inpartnership": {
+      "message": "In partnership with"
+   },
+   "ratingwindow_myrating": {
+      "message": "\u6211\u7684\u8BC4\u7EA7"
+   },
+   "ratingwindow_newversion": {
+      "message": "\u6709\u65B0\u7248\u672C\u53EF\u7528 \u2013 \u5355\u51FB\u8FDB\u884C\u66F4\u65B0"
+   },
+   "ratingwindow_settings": {
+      "message": "\u8BBE\u7F6E"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "\u67E5\u770B\u767B\u8BB0\u5361\u4E0A\u7684\u8BC4\u7EA7\u8BE6\u60C5"
+   },
+   "ratingwindow_wotrating": {
+      "message": "WOT \u8BC4\u7EA7"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "\u6781\u5DEE"
+   },
+   "reputationlevels_r2": {
+      "message": "\u8F83\u5DEE"
+   },
+   "reputationlevels_r3": {
+      "message": "\u4EE4\u4EBA\u4E0D\u6EE1\u610F"
+   },
+   "reputationlevels_r4": {
+      "message": "\u8F83\u597D"
+   },
+   "reputationlevels_r5": {
+      "message": "\u6781\u4F73"
+   },
+   "warnings_back": {
+      "message": "\u56DE\u53BB"
+   },
+   "warnings_goto": {
+      "message": "\u8FDB\u5165\u8BE5\u7F51\u7AD9"
+   },
+   "warnings_gotosite": {
+      "message": "\u5FFD\u7565\u8B66\u544A\u5E76\u8FDB\u5165\u8BE5\u7F51\u7AD9"
+   },
+   "warnings_information": {
+      "message": "\u67E5\u770B\u8BC4\u7EA7\u8BE6\u60C5\u548C\u8BC4\u8BBA"
+   },
+   "warnings_leave": {
+      "message": "\u79BB\u5F00\u5DE5\u5730"
+   },
+   "warnings_ratesite": {
+      "message": "\u6B64\u7F51\u7AD9\u662F\u5B89\u5168\u7684 - \u003Ca\u003E\u6211\u60F3\u5BF9\u5176\u8FDB\u884C\u8BC4\u7EA7\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "\u60A8\u5DF2\u5C06\u6B64\u7F51\u7AD9\u8BC4\u4E3A\u8F83\u5DEE\u7B49\u7EA7\uFF0C\u003Cbr/\u003E\u8BE5\u8BC4\u7EA7\u89E6\u53D1\u4E86\u8B66\u544A"
+   },
+   "warnings_reputation": {
+      "message": "\u6B64\u7F51\u7AD9\u7684\u58F0\u8A89\u8F83\u5DEE"
+   },
+   "warnings_unknown": {
+      "message": "\u6B64\u7F51\u7AD9\u7684\u8BC4\u7EA7\u672A\u77E5"
+   },
+   "warnings_warning": {
+      "message": "\u8B66\u544A!"
+   }
+}

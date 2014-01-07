@@ -1,0 +1,134 @@
+{
+   "components_0": {
+      "message": "\u53EF\u9760\u6027"
+   },
+   "components_1": {
+      "message": "\u4F9B\u61C9\u8005\u53EF\u4FE1\u8CF4\u6027"
+   },
+   "components_2": {
+      "message": "\u96B1\u79C1\u6027"
+   },
+   "components_4": {
+      "message": "\u5152\u7AE5\u5B89\u5168"
+   },
+   "components__short_0": {
+      "message": "\u53EF\u9760\u6027"
+   },
+   "components__short_1": {
+      "message": "\u4F9B\u61C9\u8005\u53EF\u4FE1\u8CF4\u6027"
+   },
+   "components__short_2": {
+      "message": "\u96B1\u79C1\u6027"
+   },
+   "components__short_4": {
+      "message": "\u5152\u7AE5\u5B89\u5168"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "Open WOT scorecard"
+   },
+   "ext_description": {
+      "message": "WOT \u6703\u6839\u64DA\u5168\u4E16\u754C\u6578\u767E\u842C\u7528\u6236\u7684\u7D93\u9A57\uFF0C\u544A\u8A34\u60A8\u54EA\u4E9B\u662F\u53EF\u4EE5\u4FE1\u4EFB\u7684\u7DB2\u7AD9\u3002WOT \u5FEB\u901F\u53C8\u5BB9\u6613\u4E0A\u624B\uFF0C\u800C\u4E14\u5B8C\u5168\u514D\u8CBB\u3002"
+   },
+   "lang": {
+      "message": "zh-TW"
+   },
+   "locale": {
+      "message": "zh_TW"
+   },
+   "messages_failed": {
+      "message": "\u8A55\u7B49\u8F09\u5165\u5931\u6557\uFF1B\u7ACB\u523B\u91CD\u8A66\u3002"
+   },
+   "messages_initializing": {
+      "message": "\u521D\u59CB\u5316 WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "\u8A55\u7B49\u8F09\u5165\u4E2D\u2026"
+   },
+   "messages_notavailable": {
+      "message": "\u7121\u6CD5\u63D0\u4F9B\u8A55\u7B49\u3002"
+   },
+   "messages_notready": {
+      "message": "WOT \u555F\u52D5\u4E2D\u2026"
+   },
+   "ratingwindow_addcomment": {
+      "message": "\u52A0\u5165\u60A8\u7684\u8A55\u8A9E"
+   },
+   "ratingwindow_forum": {
+      "message": "\u8AD6\u58C7"
+   },
+   "ratingwindow_guide": {
+      "message": "\u6307\u5357"
+   },
+   "ratingwindow_helplink": {
+      "message": "\u8981\u7559\u4E0B\u8A55\u8A9E\u55CE\uFF1F"
+   },
+   "ratingwindow_helptext": {
+      "message": "\u60A8\u7684\u8A55\u7B49\u4E0D\u4E00\u81F4\u3002"
+   },
+   "ratingwindow_inpartnership": {
+      "message": "In partnership with"
+   },
+   "ratingwindow_myrating": {
+      "message": "\u6211\u7684\u8A55\u7B49"
+   },
+   "ratingwindow_newversion": {
+      "message": "\u6709\u65B0\u7248\u672C\u53EF\u4F9B\u4E0B\u8F09 -- \u6309\u4E00\u4E0B\u9032\u884C\u66F4\u65B0"
+   },
+   "ratingwindow_settings": {
+      "message": "\u8A2D\u5B9A"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "\u6AA2\u8996\u8A55\u7B49\u8A73\u7D30\u5167\u5BB9\u8A08\u5206\u8868"
+   },
+   "ratingwindow_wotrating": {
+      "message": "WOT \u8A55\u7B49"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "\u975E\u5E38\u5DEE"
+   },
+   "reputationlevels_r2": {
+      "message": "\u4E0D\u4F73"
+   },
+   "reputationlevels_r3": {
+      "message": "\u4E0D\u7B26\u8981\u6C42"
+   },
+   "reputationlevels_r4": {
+      "message": "\u4F73"
+   },
+   "reputationlevels_r5": {
+      "message": "\u6975\u4F73"
+   },
+   "warnings_back": {
+      "message": "Go back"
+   },
+   "warnings_goto": {
+      "message": "Open the site"
+   },
+   "warnings_gotosite": {
+      "message": "\u5FFD\u7565\u8B66\u544A\uFF0C\u524D\u5F80\u7DB2\u7AD9"
+   },
+   "warnings_information": {
+      "message": "\u6AA2\u8996\u8A55\u7B49\u8A73\u7D30\u5167\u5BB9\u8207\u8A55\u8A9E"
+   },
+   "warnings_leave": {
+      "message": "Leave the site"
+   },
+   "warnings_ratesite": {
+      "message": "\u9019\u500B\u7DB2\u7AD9\u662F\u5B89\u5168\u7684 - \u003Ca\u003E\u6211\u8981\u8A55\u7B49\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "\u60A8\u7D66\u4E86\u9019\u500B\u7DB2\u7AD9\u6703\u89F8\u52D5\u8B66\u544A\u7684\u4E0D\u4F73\u8A55\u7B49"
+   },
+   "warnings_reputation": {
+      "message": "\u9019\u500B\u7DB2\u7AD9\u8072\u8B7D\u4E0D\u4F73"
+   },
+   "warnings_unknown": {
+      "message": "\u9019\u500B\u7DB2\u7AD9\u7684\u8A55\u7B49\u4E0D\u8A73"
+   },
+   "warnings_warning": {
+      "message": "\u8B66\u544A!"
+   }
+}

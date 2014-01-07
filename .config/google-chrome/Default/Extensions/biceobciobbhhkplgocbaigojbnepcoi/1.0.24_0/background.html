@@ -1,0 +1,46 @@
+<html>
+<head>
+<script type="text/javascript">
+    //localStorage["validateURLs"] = "";
+    //
+    //chrome.extension.onRequest.addListener(
+    //    function(request, sender, sendResponse){
+    //        if(request.ret){
+    //            chrome.tabs.executeScript(null,{file:"common.js"});
+    //            if(localStorage["validateURLs"].length != request.ret.toString().length){
+    //                localStorage["validateURLs"] = request.ret;
+    //            }
+    //        }else{
+    //            localStorage["validateURLs"] = "";
+    //        }
+    //});
+    //
+    //chrome.tabs.onSelectionChanged.addListener(function(tabId) {
+    //    chrome.tabs.getSelected(null,function(tab) {
+    //        if(tab.url.indexOf("chrome") > -1){
+    //            localStorage["validateURLs"] = "";
+    //        }else{
+    //            chrome.tabs.executeScript(tabId,{file:"common.js"});
+    //        }
+    //    });
+    //});
+    //
+    //chrome.tabs.onUpdated.addListener(function(tabId,changeInfo,tab) {   
+    //    if(changeInfo.status == "complete"){
+    //        if(tab.url.indexOf("chrome") > -1){               
+    //            localStorage["validateURLs"] = "";
+    //        }else{
+    //            chrome.tabs.executeScript(tabId,{file:"common.js"});
+    //        }
+    //    }
+    //});
+    
+    var data = new Array();
+    chrome.extension.onRequest.addListener(function(request, sender, sendResponse) {
+        data.push(request.result);
+    });
+</script> 
+</head>
+<body>
+</body>
+</html>

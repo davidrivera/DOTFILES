@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box !important;
+  -webkit-box-sizing: border-box !important;
+}
+body {
+  border: 0 none;
+  color: black;
+  font-family: arial, sans-serif;
+  font-size: small;
+  margin: 0 3px;
+  padding: 0;
+  background-color: #ffffff;
+  -webkit-user-select: none;
+}
+h1 {
+  background-image: url('htsa128.png');
+  background-position: -20px center;
+  background-repeat: no-repeat;
+  margin: 16px 16px;
+  min-width: 640px;
+  padding: 0 0 0 108px;
+  height: 128px;
+  line-height: 128px;
+}
+form {
+  background-color: #f3f7fc;
+  border-color: #d2dbed;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 0 16px;
+  min-width: 640px;
+  padding: 12px;
+}
+fieldset {
+  border-style: none;
+}
+label {
+  color: #3b5998;
+  font-weight: bold;
+  font-family: arial, sans-serif;
+
+  text-shadow: 1px 1px #ffffff;
+}

@@ -1,0 +1,82 @@
+{
+   "add_an_event": {
+      "description": "Header that appears just above the form that lets users add custom events.",
+      "message": "Termin hinzuf\u00FCgen"
+   },
+   "add_to_google_calendar": {
+      "description": "Alt text and/or link text for the link that users click to add event to their calendar.",
+      "message": "Zum Google Kalender hinzuf\u00FCgen"
+   },
+   "authorization_required": {
+      "description": "A message shown when the user has not logged in to Google Calendar in the current window.",
+      "message": "Melden Sie sich an, um Aktualisierungen der Google Kalender Termine zu sehen."
+   },
+   "calendar_list_header": {
+      "description": "The header for the Options section under which all calendars are shown.",
+      "message": "Kalendar"
+   },
+   "event_title_placeholder": {
+      "description": "Placeholder in the textarea where the user is instructed to type in the title of the event they want to create.",
+      "message": "Z. B. \u201CDinner mit Michael 7.00 morgen\u201D"
+   },
+   "events_on_this_page": {
+      "description": "Title used in the browser action popup for the list of events detected on the current page.",
+      "message": "Events auf dieser Seite"
+   },
+   "fetching_feed": {
+      "description": "Tooltip text for when the extension is fetching the feed from the server.",
+      "message": "Die Liste der Termine wird aktualisiert."
+   },
+   "google_calendar_extension_desc": {
+      "description": "Description of what this extension does.",
+      "message": "Pflegen Sie ganz einfach Ihren Google Kalender, und f\u00FCgen neue Termine von Webseiten hinzu, die Sie besuchen."
+   },
+   "google_calendar_extension_name": {
+      "description": "The name of this extension.",
+      "message": "Google Kalender (von Google)"
+   },
+   "logo_text": {
+      "description": "The name of the Calendar product, including the word Google.",
+      "message": "Google Kalender"
+   },
+   "no_events_today": {
+      "description": "Message shown as a placeholder when there are no events today. It only applies to when there are no events today, not for other dates.",
+      "message": "Heute keine Ereignisse."
+   },
+   "option_show_time_until_next_event": {
+      "description": "The name of the option that tells the user that the extension will display the time on the badge.",
+      "message": "Zeigen Sie die verbleibende Zeit bis zur n\u00E4chsten Veranstaltung."
+   },
+   "quick_add_button": {
+      "description": "Text on the button that adds a new event to the calendar from user input.",
+      "message": "Hinzuf\u00FCgen"
+   },
+   "read_more_at_original_url": {
+      "description": "Descriptive text for a link at the bottom of each event description that asks the user to click on the link for more information.",
+      "message": "Lesen Sie mehr auf der Original-Website: "
+   },
+   "show_options": {
+      "description": "Alternate text for the icon that opens the Options screen in a new window.",
+      "message": "\u00C4ndern der Optionen f\u00FCr diese Erweiterung"
+   },
+   "show_quick_add": {
+      "description": "Alternate text for the icon that shows the text area where users add details of new events.",
+      "message": "F\u00FCgen Sie ein neues Ereignis, indem Sie Details."
+   },
+   "sync_now": {
+      "description": "Alternate text for the icon that forces syncing the calendar right away.",
+      "message": "Aktualisieren Sie die Liste der Termine vom Server."
+   },
+   "toolbar_icon": {
+      "description": "The section of the Options page that deals with the toolbar icon.",
+      "message": "Das Symbol in der Symbolleiste"
+   },
+   "view_agenda": {
+      "description": "Used in the popup view just before the actual calendar agenda.",
+      "message": "Agenda"
+   },
+   "view_on_map": {
+      "description": "A message shown below each event when the event has a location, that opens the location in Google Maps.",
+      "message": "Auf der Karte anzeigen"
+   }
+}

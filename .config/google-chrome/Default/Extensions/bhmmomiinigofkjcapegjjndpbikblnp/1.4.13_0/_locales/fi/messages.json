@@ -1,0 +1,134 @@
+{
+   "components_0": {
+      "message": "Luotettavuus"
+   },
+   "components_1": {
+      "message": "Asioinnin turvallisuus"
+   },
+   "components_2": {
+      "message": "Tietosuoja"
+   },
+   "components_4": {
+      "message": "Lapsiturvallisuus"
+   },
+   "components__short_0": {
+      "message": "Luotettavuus"
+   },
+   "components__short_1": {
+      "message": "Asioinnin turvall."
+   },
+   "components__short_2": {
+      "message": "Tietosuoja"
+   },
+   "components__short_4": {
+      "message": "Lapsiturvallisuus"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "Open WOT scorecard"
+   },
+   "ext_description": {
+      "message": "WOT n\u00E4ytt\u00E4\u00E4, mihin sivustoihin voit luottaa. Arviot perustuvat miljoonien k\u00E4ytt\u00E4jien kokemuksiin eri puolilta maailmaa."
+   },
+   "lang": {
+      "message": "fi-FI"
+   },
+   "locale": {
+      "message": "fi"
+   },
+   "messages_failed": {
+      "message": "Luokitusten lataaminen ep\u00E4onnistui."
+   },
+   "messages_initializing": {
+      "message": "Alustetaan WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "Ladataan luokituksia\u2026"
+   },
+   "messages_notavailable": {
+      "message": "Luokitukset eiv\u00E4t ole k\u00E4ytett\u00E4viss\u00E4."
+   },
+   "messages_notready": {
+      "message": "Otetaan WOT-lis\u00E4osa k\u00E4ytt\u00F6\u00F6n\u2026"
+   },
+   "ratingwindow_addcomment": {
+      "message": "Voit my\u00F6s lis\u00E4t\u00E4 oman kommentin"
+   },
+   "ratingwindow_forum": {
+      "message": "Foorumi"
+   },
+   "ratingwindow_guide": {
+      "message": "Opas"
+   },
+   "ratingwindow_helplink": {
+      "message": "Haluatko lis\u00E4t\u00E4 kommentin?"
+   },
+   "ratingwindow_helptext": {
+      "message": ""
+   },
+   "ratingwindow_inpartnership": {
+      "message": "Kumppanina"
+   },
+   "ratingwindow_myrating": {
+      "message": "Oma luokitus"
+   },
+   "ratingwindow_newversion": {
+      "message": "Uusi versio \u2013 asenna napsauttamalla t\u00E4t\u00E4"
+   },
+   "ratingwindow_settings": {
+      "message": "Asetukset"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "N\u00E4et yksityiskohtaiset tiedot tuloskortista"
+   },
+   "ratingwindow_wotrating": {
+      "message": "WOT-luokitus"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "Eritt\u00E4in huono"
+   },
+   "reputationlevels_r2": {
+      "message": "Huono"
+   },
+   "reputationlevels_r3": {
+      "message": "Ep\u00E4tyydytt\u00E4v\u00E4"
+   },
+   "reputationlevels_r4": {
+      "message": "Hyv\u00E4"
+   },
+   "reputationlevels_r5": {
+      "message": "Erinomainen"
+   },
+   "warnings_back": {
+      "message": "Takaisin"
+   },
+   "warnings_goto": {
+      "message": "Siirry sivustoon"
+   },
+   "warnings_gotosite": {
+      "message": "Ohita varoitus ja siirry sivustoon"
+   },
+   "warnings_information": {
+      "message": "N\u00E4yt\u00E4 luokitustiedot ja kommentit"
+   },
+   "warnings_leave": {
+      "message": "Poistu sivustolta"
+   },
+   "warnings_ratesite": {
+      "message": "Sivusto on turvallinen, haluan \u003Ca\u003Eluokitella sen\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "Sivustolle antamasi huono luokitus\u003Cbr/\u003Elaukaisi varoituksen"
+   },
+   "warnings_reputation": {
+      "message": "T\u00E4ll\u00E4 sivustolla on huono maine k\u00E4ytt\u00E4jien\u003Cbr/\u003Eluokitusten perusteella"
+   },
+   "warnings_unknown": {
+      "message": "T\u00E4m\u00E4n sivuston luokitus on tuntematon"
+   },
+   "warnings_warning": {
+      "message": "Varoitus!"
+   }
+}

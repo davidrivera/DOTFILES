@@ -1,0 +1,134 @@
+{
+   "components_0": {
+      "message": "Confiabilidad"
+   },
+   "components_1": {
+      "message": "Fiabilidad del vendedor"
+   },
+   "components_2": {
+      "message": "Privacidad"
+   },
+   "components_4": {
+      "message": "Seguridad para menores"
+   },
+   "components__short_0": {
+      "message": "Confiabilidad"
+   },
+   "components__short_1": {
+      "message": "Fiabilidad vendedor"
+   },
+   "components__short_2": {
+      "message": "Privacidad"
+   },
+   "components__short_4": {
+      "message": "Seguridad infantil"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "Open WOT scorecard"
+   },
+   "ext_description": {
+      "message": "WOT muestra cu\u00E1les son los sitios web en los que puede confiar bas\u00E1ndose en las experiencias de millones de usuarios."
+   },
+   "lang": {
+      "message": "es-ES"
+   },
+   "locale": {
+      "message": "es"
+   },
+   "messages_failed": {
+      "message": "Error al cargar las valoraciones."
+   },
+   "messages_initializing": {
+      "message": "Iniciando WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "Cargando valoraciones\u2026"
+   },
+   "messages_notavailable": {
+      "message": "Las valoraciones no est\u00E1n disponibles."
+   },
+   "messages_notready": {
+      "message": "Activando WOT\u2026"
+   },
+   "ratingwindow_addcomment": {
+      "message": "A\u00F1adir comentario"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_guide": {
+      "message": "Gu\u00EDa"
+   },
+   "ratingwindow_helplink": {
+      "message": "\u00BFDesea a\u00F1adir un comentario?"
+   },
+   "ratingwindow_helptext": {
+      "message": ""
+   },
+   "ratingwindow_inpartnership": {
+      "message": "En asociaci\u00F3n con"
+   },
+   "ratingwindow_myrating": {
+      "message": "Mi valoraci\u00F3n"
+   },
+   "ratingwindow_newversion": {
+      "message": "Nueva versi\u00F3n disponible: haga clic para actualizar"
+   },
+   "ratingwindow_settings": {
+      "message": "Configuraci\u00F3n"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "Ver puntuaci\u00F3n para detalles de valoraci\u00F3n"
+   },
+   "ratingwindow_wotrating": {
+      "message": "Valoraci\u00F3n de WOT"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "Muy pobre"
+   },
+   "reputationlevels_r2": {
+      "message": "Pobre"
+   },
+   "reputationlevels_r3": {
+      "message": "No satisfactoria"
+   },
+   "reputationlevels_r4": {
+      "message": "Buena"
+   },
+   "reputationlevels_r5": {
+      "message": "Excelente"
+   },
+   "warnings_back": {
+      "message": "Regrese"
+   },
+   "warnings_goto": {
+      "message": "Vaya al sitio"
+   },
+   "warnings_gotosite": {
+      "message": "Omitir la advertencia e ir al sitio"
+   },
+   "warnings_information": {
+      "message": "Ver detalles de valoraci\u00F3n y comentarios"
+   },
+   "warnings_leave": {
+      "message": "Abandone el sitio"
+   },
+   "warnings_ratesite": {
+      "message": "Este sitio es seguro y deseo \u003Ca\u003Evalorarlo\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "Ha asignado a este sitio una valoraci\u00F3n pobre,\u003Cbr/\u003Elo que ha desencadenado una advertencia"
+   },
+   "warnings_reputation": {
+      "message": "Este sitio tiene una reputaci\u00F3n pobre"
+   },
+   "warnings_unknown": {
+      "message": "Este sitio tiene una valoraci\u00F3n desconocida"
+   },
+   "warnings_warning": {
+      "message": "\u00A1Advertencia!"
+   }
+}

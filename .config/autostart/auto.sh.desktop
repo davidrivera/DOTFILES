@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/david/.config/awesome/auto.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Wall Scroll
+Name=Wall Scroll
+Comment[en_US]=Scrolls the wallpaper
+Comment=Scrolls the wallpaper

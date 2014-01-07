@@ -1,0 +1,23 @@
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:000] Using Gtk2 toolkit
+[000:011] Starting client channel.
+[000:011] Warning(clientchannel.cc:436): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:012] Warning(clientchannel.cc:411): Could not initiate GoogleTalkPlugin connection
+[000:012] GoogleTalkPlugin not running. Starting new process...
+[000:012] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:012] Warning(pluginutils.cc:251): Failed to get GoogleTalkPlugin path. Trying default.
+[000:014] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:015] Waiting for GoogleTalkPlugin to start...
+[001:104] Attempting to connect to GoogleTalkPlugin...
+[001:105] Read port file, port=45779
+[001:105] Initiated connection to GoogleTalkPlugin
+[001:205] Socket connection established
+[001:205] ScheduleOnlineCheck: Online check in 5000ms
+[001:306] Got cookie response, socket is authorized
+[001:306] AUTHORIZED; socket handshake complete
+[001:306] F->C: ["fs",{"pr":"a"}]
+[001:406] F->C: ["mf","mf4.2","4.2.1.0",2,{"audioCodecs":[[103,"ISAC",1,0,16000],[104,"ISAC",1,0,32000],[9,"G722",1,64000,16000],[102,"ILBC",1,13300,8000],[0,"PCMU",1,64000,8000],[8,"PCMA",1,64000,8000],[107,"CN",1,0,48000],[106,"CN",1,0,32000],[105,"CN",1,0,16000],[13,"CN",1,0,8000],[127,"red",1,0,8000],[126,"telephone-event",1,0,8000]],"audioRtpHdrExts":[{"id":1,"uri":"urn:ietf:params:rtp-hdrext:ssrc-audio-level"}],"camDeviceName":"Laptop_Integrated_Webcam_1.3M","caps":15,"cpuAdaptVersion":1,"cpuArchitecture":1,"cpuCacheSize":6291456,"cpuFamily":6,"cpuFlags":["sse2","ssse3","sse4_1","sse4_2","avx"],"cpuHasSSE2":true,"cpuModel":58,"cpuSpeed":2201,"cpuStepping":9,"cpuVendor":"GenuineIntel","cpus":8,"cpusPhysical":4,"cryptoRandom":"mRwoF4ecSV/utMEcQAplcRoU","cryptoSuites":["AES_CM_128_HMAC_SHA1_80","AES_CM_128_HMAC_SHA1_32"],"dataChannelVersion":1,"effectsVersion":10,"gpuDescription":"","gpuDeviceId":0,"gpuDeviceName":"","gpuDriver":"","gpuDriverVersion":"","gpuVendorId":0,"machineModel":"Not available","remotingAssistanceAllowed":0,"remotingVersion":1,"renderer":2,"rtcpMux":true,"screencast":2,"screencastLocalPreview":1,"supportsConcurrentSessions":true,"transports":["i","gice"],"videoCodecs":[[99,"H264-SVC",640,360,30],[97,"H264",640,360,30],[98,"H263",640,360,30]],"videoRtpHdrExts":[{"id":2,"uri":"urn:ietf:params:rtp-hdrext:toffset"}]}]
+[001:507] F->C: ["getdevicestate","15","0",["__default_device","Built-in Audio Analog Stereo"],"0",["__default_device","Built-in Audio Analog Stereo"],"0",["Laptop_Integrated_Webcam_1.3M"]]
+[006:218] HandleOnlineCheck: Starting check
+[006:218] HandleOnlineCheck: OK; current state: 3

@@ -1,0 +1,134 @@
+{
+   "components_0": {
+      "message": "P\u00E5litlighet"
+   },
+   "components_1": {
+      "message": "Transaktionss\u00E4kerhet"
+   },
+   "components_2": {
+      "message": "Sekretess"
+   },
+   "components_4": {
+      "message": "Barns\u00E4kerhet"
+   },
+   "components__short_0": {
+      "message": "P\u00E5litlighet"
+   },
+   "components__short_1": {
+      "message": "Transakt.s\u00E4kerhet"
+   },
+   "components__short_2": {
+      "message": "Sekretess"
+   },
+   "components__short_4": {
+      "message": "Barns\u00E4kerhet"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "\u00D6ppna WOT Score-kort"
+   },
+   "ext_description": {
+      "message": "WOT visar vilka webbsidor som \u00E4r s\u00E4kra baserat p\u00E5 miljontals anv\u00E4ndares erfarenhet fr\u00E5n hela v\u00E4rlden."
+   },
+   "lang": {
+      "message": "sv-SE"
+   },
+   "locale": {
+      "message": "sv"
+   },
+   "messages_failed": {
+      "message": "Misslyckades att l\u00E4sa in klassificeringar."
+   },
+   "messages_initializing": {
+      "message": "Initierar WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "L\u00E4ser in klassificeringar\u2026"
+   },
+   "messages_notavailable": {
+      "message": "Inga tillg\u00E4ngliga klassificeringar."
+   },
+   "messages_notready": {
+      "message": "Aktiverar WOT\u2026"
+   },
+   "ratingwindow_addcomment": {
+      "message": "L\u00E4gg till en kommentar"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_guide": {
+      "message": "Guide"
+   },
+   "ratingwindow_helplink": {
+      "message": "Vill du l\u00E4gga till en kommentar?"
+   },
+   "ratingwindow_helptext": {
+      "message": ""
+   },
+   "ratingwindow_inpartnership": {
+      "message": "I partnerskap med"
+   },
+   "ratingwindow_myrating": {
+      "message": "Min klassificering"
+   },
+   "ratingwindow_newversion": {
+      "message": "Ny version tillg\u00E4nglig \u2013 klicka f\u00F6r att uppdatera"
+   },
+   "ratingwindow_settings": {
+      "message": "Inst\u00E4llningar"
+   },
+   "ratingwindow_viewscorecard": {
+      "message": "Visa scorekort f\u00F6r klassificeringsdetaljer"
+   },
+   "ratingwindow_wotrating": {
+      "message": "WOT-klassificering"
+   },
+   "reputationlevels_r0": {
+      "message": ""
+   },
+   "reputationlevels_r1": {
+      "message": "Mycket d\u00E5lig"
+   },
+   "reputationlevels_r2": {
+      "message": "D\u00E5lig"
+   },
+   "reputationlevels_r3": {
+      "message": "Otillr\u00E4cklig"
+   },
+   "reputationlevels_r4": {
+      "message": "Bra"
+   },
+   "reputationlevels_r5": {
+      "message": "Utm\u00E4rkt"
+   },
+   "warnings_back": {
+      "message": "G\u00E5 tillbaka"
+   },
+   "warnings_goto": {
+      "message": "G\u00E5 till webbsidan"
+   },
+   "warnings_gotosite": {
+      "message": "Ignorera varningen och g\u00E5 till webbplatsen"
+   },
+   "warnings_information": {
+      "message": "Visa klassificeringsdetaljer och kommentarer"
+   },
+   "warnings_leave": {
+      "message": "L\u00E4mna webbsidan"
+   },
+   "warnings_ratesite": {
+      "message": "Webbplatsen \u00E4r s\u00E4ker - jag vill \u003Ca\u003Eklassificera den\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "Du har gett webbplatsen klassificeringen D\u00E5lig,\u003Cbr/\u003Evilket gav upphov till en varning"
+   },
+   "warnings_reputation": {
+      "message": "Den h\u00E4r webbplatsen har d\u00E5ligt rykte"
+   },
+   "warnings_unknown": {
+      "message": "Webbplatsen har en ok\u00E4nd klassificering"
+   },
+   "warnings_warning": {
+      "message": "Varning!"
+   }
+}

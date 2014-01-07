@@ -1,0 +1,519 @@
+{
+   "activityscore_bronze": {
+      "description": "",
+      "message": "bronce"
+   },
+   "activityscore_gold": {
+      "description": "",
+      "message": "oro"
+   },
+   "activityscore_next": {
+      "description": "",
+      "message": "\u00A1Punt\u00FAa para alcanzar el nivel {NEXT_LEVEL}!"
+   },
+   "activityscore_platinum": {
+      "description": "",
+      "message": "platino"
+   },
+   "activityscore_rookie": {
+      "description": "",
+      "message": "novato"
+   },
+   "activityscore_silver": {
+      "description": "",
+      "message": "plata"
+   },
+   "activityscore_text": {
+      "description": "",
+      "message": "Tu puntaci\u00F3n de actividad"
+   },
+   "auto_update_button_no": {
+      "description": "imported from firefox add-on",
+      "message": "Record\u00E1rmelo m\u00E1s tarde"
+   },
+   "auto_update_button_yes": {
+      "description": "imported from firefox add-on",
+      "message": "Actualizar ahora"
+   },
+   "auto_update_check": {
+      "description": "imported from firefox add-on",
+      "message": "Habilitar las actualizaciones autom\u00E1ticas (recomendado)."
+   },
+   "auto_update_message": {
+      "description": "imported from firefox add-on",
+      "message": "Hay disponible una nueva versi\u00F3n de WOT. \u00BFLe gustar\u00EDa actualizar su complemento?"
+   },
+   "auto_update_title": {
+      "description": "imported from firefox add-on",
+      "message": "Actualizaci\u00F3n de WOT"
+   },
+   "bl_description": {
+      "description": "",
+      "message": "Este sitio web aparece en la lista negra de terceros"
+   },
+   "bl_description_pl": {
+      "description": "",
+      "message": "Este sitio web aparece en listas negras de terceros"
+   },
+   "bl_information": {
+      "description": "",
+      "message": "WOT usa listas negras de terceros para avisar a usuarios sobre amenazas como virus y programas maliciosos.\u003Ca\u003ELeer m\u00E1s\u003C/a\u003E"
+   },
+   "bl_malware": {
+      "description": "",
+      "message": "Programas maliciosos"
+   },
+   "bl_other": {
+      "description": "",
+      "message": "Otro motivo"
+   },
+   "bl_phishing": {
+      "description": "",
+      "message": "Phising"
+   },
+   "bl_scam": {
+      "description": "",
+      "message": "Scam"
+   },
+   "bl_spam": {
+      "description": "",
+      "message": "SPAM"
+   },
+   "bl_tracking": {
+      "description": "",
+      "message": "Rastreo"
+   },
+   "buttons_cancel": {
+      "description": "",
+      "message": "Cancelar"
+   },
+   "buttons_delete": {
+      "description": "",
+      "message": "Borrar puntuaciones"
+   },
+   "buttons_delete_title": {
+      "description": "",
+      "message": "Borrar mis puntuaciones y categor\u00EDas para la web"
+   },
+   "buttons_ok": {
+      "description": "",
+      "message": "Vale"
+   },
+   "buttons_save": {
+      "description": "",
+      "message": "Guardar"
+   },
+   "components_0": {
+      "message": "Confiabilidad"
+   },
+   "components_4": {
+      "message": "Seguridad para menores"
+   },
+   "components__short_0": {
+      "message": "Confiabilidad"
+   },
+   "components__short_4": {
+      "message": "Seguridad infantil"
+   },
+   "contextmenu_open_scorecard": {
+      "description": "",
+      "message": "Abrir puntuaci\u00F3n WOT"
+   },
+   "description_restart": {
+      "description": "imported from firefox add-on",
+      "message": "Reinicie el navegador para activar WOT."
+   },
+   "description_uninstall": {
+      "description": "imported from firefox add-on",
+      "message": "WOT se desinstalar\u00E1 despu\u00E9s de reiniciar."
+   },
+   "ext_description": {
+      "message": "WOT muestra cu\u00E1les son los sitios web en los que puede confiar bas\u00E1ndose en las experiencias de millones de usuarios."
+   },
+   "fbl_dismiss": {
+      "description": "",
+      "message": "rechazar"
+   },
+   "fbl_final": {
+      "description": "",
+      "message": "\u00A1Gracias!"
+   },
+   "fbl_hideforever": {
+      "description": "",
+      "message": "Esconder para siempre"
+   },
+   "fbl_optout_no": {
+      "description": "",
+      "message": "no"
+   },
+   "fbl_optout_text": {
+      "description": "",
+      "message": "Si prefieres que no te preguntemos, haz clic en \"s\u00ED\""
+   },
+   "fbl_optout_yes": {
+      "description": "",
+      "message": "s\u00ED"
+   },
+   "fbl_submit": {
+      "description": "",
+      "message": "Enviar"
+   },
+   "fbl_this_website": {
+      "description": "",
+      "message": "esta web"
+   },
+   "fbl_whatisthis": {
+      "description": "",
+      "message": "\u00BFQu\u00E9 es esto?"
+   },
+   "fbl_whatisthis_text": {
+      "description": "",
+      "message": "\u003Ca href='http://www.mywot.com?utm_source=addon&utm_content=fbl-whatisthis' target='_blank'\u003EWeb of Trust (WOT)\u003C/a\u003E trabaja para promover seguridad y calidad en Internet para millones de usuarios. Puedes ayudar enviando tu opini\u00F3n cada vez que veas este aviso."
+   },
+   "lang": {
+      "message": "es-ES"
+   },
+   "locale": {
+      "message": "es"
+   },
+   "messages_disabled": {
+      "description": "imported from firefox add-on",
+      "message": "Ha desactivado el complemento."
+   },
+   "messages_error_register": {
+      "description": "imported from firefox add-on",
+      "message": "Error al activar el complemento."
+   },
+   "messages_failed": {
+      "message": "Error al cargar las valoraciones."
+   },
+   "messages_initializing": {
+      "message": "Iniciando WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "Cargando valoraciones\u2026"
+   },
+   "messages_notavailable": {
+      "message": "Las valoraciones no est\u00E1n disponibles."
+   },
+   "messages_notready": {
+      "message": "Activando WOT\u2026"
+   },
+   "messages_offline": {
+      "description": "imported from firefox add-on",
+      "message": "Desactivado mientras el navegador est\u00E9 fuera de l\u00EDnea."
+   },
+   "messages_ready": {
+      "description": "",
+      "message": "Reputaci\u00F3n de"
+   },
+   "popup_headertext": {
+      "description": "",
+      "message": "clic para ver detalles"
+   },
+   "popup_nocattext": {
+      "description": "",
+      "message": "comparte tu opini\u00F3n sobre esta web"
+   },
+   "ratingwindow_addcomment": {
+      "description": "",
+      "message": "Comentar"
+   },
+   "ratingwindow_backtoratings": {
+      "description": "",
+      "message": "Volver a puntuaciones"
+   },
+   "ratingwindow_backtoratings_category": {
+      "description": "",
+      "message": "Escoger una categor\u00EDa"
+   },
+   "ratingwindow_categories": {
+      "description": "",
+      "message": "Elige al menos una categor\u00EDa"
+   },
+   "ratingwindow_comment": {
+      "description": "",
+      "message": "Deja un comentario para describir tu experiencia con este sitio"
+   },
+   "ratingwindow_comment_captchalink": {
+      "description": "",
+      "message": "Abrir puntuaci\u00F3n"
+   },
+   "ratingwindow_comment_captchatext": {
+      "description": "",
+      "message": "Es necesario introducir un c\u00F3digo de verificaci\u00F3n en la puntuaci\u00F3n para publicar el comentario"
+   },
+   "ratingwindow_comment_placeholder": {
+      "description": "",
+      "message": "escribe aqu\u00ED tu comentario..."
+   },
+   "ratingwindow_comment_register": {
+      "description": "",
+      "message": "Crear una cuenta nueva"
+   },
+   "ratingwindow_comment_regtext": {
+      "description": "",
+      "message": "Es necesaria una cuenta para publicar un comentario."
+   },
+   "ratingwindow_commenthints": {
+      "description": "",
+      "message": "\u003Cp\u003ESe preciso\u003C/p\u003E\u003Cp\u003EDa pruebas o ejemplos\u003C/p\u003E\u003Cp\u003EComenta seg\u00FAn tu experiencia real\u003C/p\u003E\u003Cp\u003ENo hagas spam\u003C/p\u003E"
+   },
+   "ratingwindow_editcomment": {
+      "description": "",
+      "message": "Editar comentario"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_fulllist": {
+      "description": "",
+      "message": "mostrar lista entera"
+   },
+   "ratingwindow_guide": {
+      "description": "",
+      "message": "Tour"
+   },
+   "ratingwindow_invite_rw": {
+      "description": "",
+      "message": "Puedes puntuar sitios webs usando esta herramienta. Haz clic en las barras de colores para expresar cu\u00E1nto conf\u00EDas en un sitio web."
+   },
+   "ratingwindow_morecats": {
+      "description": "",
+      "message": "m\u00E1s"
+   },
+   "ratingwindow_myrating": {
+      "message": "Mi valoraci\u00F3n"
+   },
+   "ratingwindow_newversion": {
+      "message": "Nueva versi\u00F3n disponible: haga clic para actualizar"
+   },
+   "ratingwindow_novoted": {
+      "description": "",
+      "message": "Haz clic aqu\u00ED para dar un motivo para tu puntuaci\u00F3n eligiendo una categor\u00EDa."
+   },
+   "ratingwindow_profile": {
+      "description": "",
+      "message": "Mi perfil"
+   },
+   "ratingwindow_question0": {
+      "description": "",
+      "message": "\u00BFCu\u00E1nto conf\u00EDas en esta web?"
+   },
+   "ratingwindow_question4": {
+      "description": "",
+      "message": "\u00BFC\u00F3mo es de adecuada para ni\u00F1os?"
+   },
+   "ratingwindow_rerate_category": {
+      "description": "TODO: TRANSLATE",
+      "message": " "
+   },
+   "ratingwindow_rerate_change": {
+      "description": "",
+      "message": "cambiar"
+   },
+   "ratingwindow_settings": {
+      "message": "Configuraci\u00F3n"
+   },
+   "ratingwindow_thankyou": {
+      "description": "",
+      "message": "\u00A1Gracias por compartir tu experiencia!"
+   },
+   "ratingwindow_viewscorecard": {
+      "description": "",
+      "message": "Ver informaci\u00F3n y comentarios"
+   },
+   "ratingwindow_vote_no": {
+      "description": "",
+      "message": "No"
+   },
+   "ratingwindow_vote_yes": {
+      "description": "",
+      "message": "S\u00ED"
+   },
+   "ratingwindow_wotrating": {
+      "description": "",
+      "message": "Reputaci\u00F3n de sitios web basada en la puntuaci\u00F3n de los usuarios"
+   },
+   "reputationlevels_r0": {
+      "description": "",
+      "message": "Desconocido"
+   },
+   "reputationlevels_r1": {
+      "message": "Muy pobre"
+   },
+   "reputationlevels_r2": {
+      "message": "Pobre"
+   },
+   "reputationlevels_r3": {
+      "message": "No satisfactoria"
+   },
+   "reputationlevels_r4": {
+      "message": "Buena"
+   },
+   "reputationlevels_r5": {
+      "message": "Excelente"
+   },
+   "testimony_0_levels_r0": {
+      "description": "",
+      "message": "clic para puntuar"
+   },
+   "testimony_0_levels_r1": {
+      "description": "",
+      "message": "no conf\u00EDo"
+   },
+   "testimony_0_levels_r2": {
+      "description": "",
+      "message": "no conf\u00EDo"
+   },
+   "testimony_0_levels_r3": {
+      "description": "",
+      "message": "es sospechosa"
+   },
+   "testimony_0_levels_r4": {
+      "description": "",
+      "message": "conf\u00EDo"
+   },
+   "testimony_0_levels_r5": {
+      "description": "",
+      "message": "conf\u00EDo"
+   },
+   "testimony_4_levels_r0": {
+      "description": "",
+      "message": "clic para puntuar"
+   },
+   "testimony_4_levels_r1": {
+      "description": "",
+      "message": "no es adecuado"
+   },
+   "testimony_4_levels_r2": {
+      "description": "",
+      "message": "no es adecuado"
+   },
+   "testimony_4_levels_r3": {
+      "description": "",
+      "message": "se precavido"
+   },
+   "testimony_4_levels_r4": {
+      "description": "",
+      "message": "adecuado"
+   },
+   "testimony_4_levels_r5": {
+      "description": "",
+      "message": "adecuado"
+   },
+   "testimony_delete": {
+      "description": "",
+      "message": "borrar"
+   },
+   "testimony_unrated": {
+      "description": "",
+      "message": "sin opini\u00F3n"
+   },
+   "warning": {
+      "description": "imported from firefox add-on",
+      "message": "Advertencia de WOT: %S"
+   },
+   "warning_button": {
+      "description": "imported from firefox add-on",
+      "message": "Detalles de la valoraci\u00F3n"
+   },
+   "warnings_back": {
+      "message": "Regrese"
+   },
+   "warnings_blocked": {
+      "description": "imported from firefox add-on",
+      "message": "Bloqueado"
+   },
+   "warnings_goto": {
+      "message": "Vaya al sitio"
+   },
+   "warnings_information": {
+      "description": "",
+      "message": "Ver informaci\u00F3n y comentarios"
+   },
+   "warnings_leave": {
+      "description": "",
+      "message": "Salir"
+   },
+   "warnings_message_rating": {
+      "description": "imported from firefox add-on",
+      "message": "ha asignado a este sitio una valoraci\u00F3n pobre."
+   },
+   "warnings_message_reputation": {
+      "description": "imported from firefox add-on",
+      "message": "este sitio tiene una reputaci\u00F3n pobre."
+   },
+   "warnings_noreasontitle": {
+      "description": "",
+      "message": "Los usuarios no han identificado todav\u00EDa esta web y solo la han puntuado"
+   },
+   "warnings_othersreasontitle": {
+      "description": "",
+      "message": "Opiniones de otros usuarios"
+   },
+   "warnings_ratesite": {
+      "description": "",
+      "message": "Si conf\u00EDas en este sitio web, por favor, \u003Ca\u003Epunt\u00FAalo\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "Ha asignado a este sitio una valoraci\u00F3n pobre,\u003Cbr/\u003Elo que ha desencadenado una advertencia"
+   },
+   "warnings_reasontitle": {
+      "description": "",
+      "message": "Los usuarios han identificado los siguientes problemas"
+   },
+   "warnings_reputation": {
+      "message": "Este sitio tiene una reputaci\u00F3n pobre"
+   },
+   "warnings_reratesite": {
+      "description": "",
+      "message": "\u003Ca\u003EHaz clic aqu\u00ED\u003C/a\u003E si quieres puntuar de nuevo esta web"
+   },
+   "warnings_unknown": {
+      "message": "Este sitio tiene una valoraci\u00F3n desconocida"
+   },
+   "warnings_warning": {
+      "message": "\u00A1Advertencia!"
+   },
+   "wt_donut_btn": {
+      "description": "",
+      "message": "Vale, entendido"
+   },
+   "wt_donut_msg": {
+      "description": "",
+      "message": "\u003Cp\u003EWOT muestra reputaciones de sitios web basadas en experiencias de otros usuarios, mostrando iconos al estilo de los sem\u00E1foros.\u003C/p\u003E\u003Cp\u003E Pase el cursor del rat\u00F3n sobre el icono para ver la reputaci\u00F3n y las razones detr\u00E1s de ella.\u003C/p\u003E"
+   },
+   "wt_intro_0_btn": {
+      "description": "",
+      "message": "Vale, entendido"
+   },
+   "wt_intro_0_msg": {
+      "description": "",
+      "message": "\u003Cimg src='{ADDON_BASEURI}skin/b/welcometips/wt_intro_0.png' width='196px' height='40px'/\u003E\u003Cp\u003EEl nuevo WOT ha sido a\u00F1adido a su navegador.\u003C/p\u003E\u003Cp\u003EEmpiece a calificar sitios web haciendo clic en este icono {ICO1}\u003C/p\u003E\u003Cp\u003E{WT_LEARNMORE}\u003C/p\u003E"
+   },
+   "wt_learnmore_link": {
+      "description": "",
+      "message": "\u003Ca id='wt-learnmore-link'\u003ESaber m\u00E1s\u003C/a\u003E sobre WOT."
+   },
+   "wt_rw_text": {
+      "description": "",
+      "message": "\u003Cp\u003ELa ventana de calificaci\u00F3n de WOT muestra la reputaci\u00F3n del sitio web basada en las experiencias de otros usuarios.\u003C/p\u003E\u003Cp\u003EAhora puede calificar y hacer comentarios directamente desde la ventana actualizada.\u003C/p\u003E\u003Cp\u003E Empiece a calificar haciendo clic en las barras de colores.\u003C/p\u003E\u003Cp class='wot-c'\u003E\u003Ca id='wt-learnmore-link'\u003ESaber m\u00E1s\u003C/a\u003E about WOT.\u003C/p\u003E"
+   },
+   "wt_rw_text_hdr": {
+      "description": "",
+      "message": "\u00A1Comparte tus experiencias!"
+   },
+   "wt_warning_ok": {
+      "description": "",
+      "message": "Vale, entendido"
+   },
+   "wt_warning_text": {
+      "description": "",
+      "message": "\u003Cp\u003EWOT le advierte si aterriza en un sitio con una mala reputaci\u00F3n sobre la base de calificaciones de otros usuarios o listas negras de terceros. La advertencia tambi\u00E9n muestra las razones de la mala reputaci\u00F3n.\u003C/p\u003E\u003Cp\u003E{WT_LEARNMORE}\u003C/p\u003E\u003Cp\u003ESi no quieres ver las alarmas, puedes apagarlas.\u003C/p\u003E"
+   },
+   "wt_warning_turnoff": {
+      "description": "",
+      "message": "Desactivar alertas"
+   }
+}

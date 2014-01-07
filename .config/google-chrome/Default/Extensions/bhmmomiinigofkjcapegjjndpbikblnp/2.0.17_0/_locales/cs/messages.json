@@ -1,0 +1,519 @@
+{
+   "activityscore_bronze": {
+      "description": "",
+      "message": "bronzov\u00E9"
+   },
+   "activityscore_gold": {
+      "description": "",
+      "message": "zlat\u00E9"
+   },
+   "activityscore_next": {
+      "description": "",
+      "message": "Pro {NEXT_LEVEL} pokra\u010Dujte v hodnocen\u00ED!"
+   },
+   "activityscore_platinum": {
+      "description": "",
+      "message": "platinov\u00E9"
+   },
+   "activityscore_rookie": {
+      "description": "",
+      "message": "zelen\u00E1\u010D"
+   },
+   "activityscore_silver": {
+      "description": "",
+      "message": "st\u0159\u00EDbrn\u00E9"
+   },
+   "activityscore_text": {
+      "description": "",
+      "message": "Va\u0161e sk\u00F3re aktivit je nyn\u00ED"
+   },
+   "auto_update_button_no": {
+      "description": "imported from firefox add-on",
+      "message": "P\u0159ipomenout pozd\u011Bji"
+   },
+   "auto_update_button_yes": {
+      "description": "imported from firefox add-on",
+      "message": "Aktualizovat nyn\u00ED"
+   },
+   "auto_update_check": {
+      "description": "imported from firefox add-on",
+      "message": "Povolit automatick\u00E9 aktualizace (doporu\u010Deno)"
+   },
+   "auto_update_message": {
+      "description": "imported from firefox add-on",
+      "message": "K dispozici je nov\u00E1 verze dopl\u0148ku WOT. P\u0159ejete si dopln\u011Bk aktualizovat nyn\u00ED?"
+   },
+   "auto_update_title": {
+      "description": "imported from firefox add-on",
+      "message": "Aktualizace dopl\u0148ku WOT"
+   },
+   "bl_description": {
+      "description": "",
+      "message": "Tato webov\u00E1 str\u00E1nka se vyskytuje na \u010Dern\u00E9 listin\u011B t\u0159et\u00ED strany"
+   },
+   "bl_description_pl": {
+      "description": "",
+      "message": "Tato webov\u00E1 str\u00E1nka se vyskytuje na \u010Dern\u00FDch listin\u00E1ch t\u0159et\u00EDch stran"
+   },
+   "bl_information": {
+      "description": "",
+      "message": "WOT pou\u017E\u00EDv\u00E1 \u010Dern\u00E9 listiny t\u0159et\u00EDch stran, aby varoval u\u017Eivatele p\u0159ed technick\u00FDmi hrozbami jako viry a malware. \u003Ca\u003E\u010Ct\u011Bte d\u00E1le\u003C/a\u003E"
+   },
+   "bl_malware": {
+      "description": "",
+      "message": "Malware"
+   },
+   "bl_other": {
+      "description": "",
+      "message": "Jin\u00FD d\u016Fvod"
+   },
+   "bl_phishing": {
+      "description": "",
+      "message": "Phishing"
+   },
+   "bl_scam": {
+      "description": "",
+      "message": "Podvod"
+   },
+   "bl_spam": {
+      "description": "",
+      "message": "SPAM"
+   },
+   "bl_tracking": {
+      "description": "",
+      "message": "Sledov\u00E1n\u00ED"
+   },
+   "buttons_cancel": {
+      "description": "",
+      "message": "Storno"
+   },
+   "buttons_delete": {
+      "description": "",
+      "message": "Smazat hodnocen\u00ED"
+   },
+   "buttons_delete_title": {
+      "description": "",
+      "message": "Smazat m\u00E9 hodnocen\u00ED a kategorie pro tuto webovou str\u00E1nku"
+   },
+   "buttons_ok": {
+      "description": "",
+      "message": "OK"
+   },
+   "buttons_save": {
+      "description": "",
+      "message": "Ulo\u017Eit"
+   },
+   "components_0": {
+      "message": "D\u016Fv\u011Bryhodnost"
+   },
+   "components_4": {
+      "message": "Bezpe\u010Dnost d\u011Bt\u00ED"
+   },
+   "components__short_0": {
+      "message": "D\u016Fv\u011Bryhodnost"
+   },
+   "components__short_4": {
+      "message": "Bezpe\u010Dnost d\u011Bt\u00ED"
+   },
+   "contextmenu_open_scorecard": {
+      "description": "",
+      "message": "Otev\u0159\u00EDt kartu hodnocen\u00ED WOT"
+   },
+   "description_restart": {
+      "description": "imported from firefox add-on",
+      "message": "Dopln\u011Bk WOT aktivujete restartov\u00E1n\u00EDm prohl\u00ED\u017Ee\u010De."
+   },
+   "description_uninstall": {
+      "description": "imported from firefox add-on",
+      "message": "Dopln\u011Bk WOT bude odinstalov\u00E1n po restartov\u00E1n\u00ED."
+   },
+   "ext_description": {
+      "message": "N\u00E1stroj WOT v\u00E1m uk\u00E1\u017Ee, kter\u00FDm str\u00E1nk\u00E1m m\u016F\u017Eete d\u016Fv\u011B\u0159ovat na z\u00E1klad\u011B zku\u0161enost\u00ED mili\u00F3n\u016F u\u017Eivatel\u016F po cel\u00E9m sv\u011Bt\u011B."
+   },
+   "fbl_dismiss": {
+      "description": "",
+      "message": "odm\u00EDtnout"
+   },
+   "fbl_final": {
+      "description": "",
+      "message": "D\u011Bkujeme!"
+   },
+   "fbl_hideforever": {
+      "description": "",
+      "message": "Trvale skr\u00FDt"
+   },
+   "fbl_optout_no": {
+      "description": "",
+      "message": "Ne"
+   },
+   "fbl_optout_text": {
+      "description": "",
+      "message": "Pokud d\u00E1v\u00E1te p\u0159ednost tomu, aby v\u00E1m nebyly kladeny ot\u00E1zky, pak klikn\u011Bte na \"ano\""
+   },
+   "fbl_optout_yes": {
+      "description": "",
+      "message": "ano"
+   },
+   "fbl_submit": {
+      "description": "",
+      "message": "Odeslat"
+   },
+   "fbl_this_website": {
+      "description": "",
+      "message": "tato webov\u00E1 str\u00E1nka"
+   },
+   "fbl_whatisthis": {
+      "description": "",
+      "message": "Co to je?"
+   },
+   "fbl_whatisthis_text": {
+      "description": "",
+      "message": "\u003Ca href='http://www.mywot.com?utm_source=addon&utm_content=fbl-whatis this' target='_blank'\u003EWeb of Trust (WOT)\u003C/a\u003E pracuje na propagaci bezpe\u010Dnosti a kvality pro mili\u00F3ny u\u017Eivatel\u016F po cel\u00E9m webu. M\u016F\u017Eete pomoci tak, \u017Ee ode\u0161lete va\u0161e n\u00E1zor kdykoliv uvid\u00EDte tuto v\u00FDzvu."
+   },
+   "lang": {
+      "message": "cs-CZ"
+   },
+   "locale": {
+      "message": "cs"
+   },
+   "messages_disabled": {
+      "description": "imported from firefox add-on",
+      "message": "Zak\u00E1zali jste dopln\u011Bk; kliknut\u00EDm sem jej povol\u00EDte."
+   },
+   "messages_error_register": {
+      "description": "imported from firefox add-on",
+      "message": "Aktivace dopl\u0148ku se nezda\u0159ila; pokus bude zanedlouho opakov\u00E1n."
+   },
+   "messages_failed": {
+      "message": "Na\u010Dten\u00ED hodnocen\u00ED se nezda\u0159ilo; pokus bude zanedlouho opakov\u00E1n."
+   },
+   "messages_initializing": {
+      "message": "Prob\u00EDh\u00E1 inicializace WOT\u2026"
+   },
+   "messages_loading": {
+      "message": "Na\u010D\u00EDt\u00E1n\u00ED hodnocen\u00ED\u2026"
+   },
+   "messages_notavailable": {
+      "message": "Hodnocen\u00ED nejsou dostupn\u00E1."
+   },
+   "messages_notready": {
+      "message": "Aktivace dopl\u0148ku WOT\u2026"
+   },
+   "messages_offline": {
+      "description": "imported from firefox add-on",
+      "message": "Dopln\u011Bk je p\u0159i vypnut\u00E9m prohl\u00ED\u017Ee\u010Di deaktivov\u00E1n."
+   },
+   "messages_ready": {
+      "description": "",
+      "message": "Reputace"
+   },
+   "popup_headertext": {
+      "description": "",
+      "message": "klikn\u011Bte pro zobrazen\u00ED detail\u016F"
+   },
+   "popup_nocattext": {
+      "description": "",
+      "message": "sd\u00EDlejte sv\u016Fj n\u00E1zor o t\u00E9to str\u00E1nce"
+   },
+   "ratingwindow_addcomment": {
+      "description": "",
+      "message": "P\u0159idat koment\u00E1\u0159"
+   },
+   "ratingwindow_backtoratings": {
+      "description": "",
+      "message": "Zp\u011Bt na hodnocen\u00ED"
+   },
+   "ratingwindow_backtoratings_category": {
+      "description": "",
+      "message": "Zvolte kategorii"
+   },
+   "ratingwindow_categories": {
+      "description": "",
+      "message": "Zvolte alespo\u0148 jednu kategorii pro va\u0161e hodnocen\u00ED"
+   },
+   "ratingwindow_comment": {
+      "description": "",
+      "message": "Zanechte koment\u00E1\u0159 s popisem va\u0161\u00ED zku\u0161enosti s touto webovou str\u00E1nkou"
+   },
+   "ratingwindow_comment_captchalink": {
+      "description": "",
+      "message": "Otev\u0159\u00EDt kartu hodnocen\u00ED nyn\u00ED"
+   },
+   "ratingwindow_comment_captchatext": {
+      "description": "",
+      "message": "Pro zve\u0159ejn\u011Bn\u00ED va\u0161eho koment\u00E1\u0159e mus\u00EDte zadat captcha."
+   },
+   "ratingwindow_comment_placeholder": {
+      "description": "",
+      "message": "napi\u0161te v\u00E1\u0161 koment\u00E1\u0159 zde..."
+   },
+   "ratingwindow_comment_register": {
+      "description": "",
+      "message": "Vytvo\u0159it \u00FA\u010Det nyn\u00ED"
+   },
+   "ratingwindow_comment_regtext": {
+      "description": "",
+      "message": "Pot\u0159ebujete \u00FA\u010Det pro zve\u0159ejn\u011Bn\u00ED va\u0161eho koment\u00E1\u0159e."
+   },
+   "ratingwindow_commenthints": {
+      "description": "",
+      "message": "\u003Cp\u003EBu\u010Fte detailn\u00ED\u003C/p\u003E\u003Cp\u003EUdejte d\u016Fkaz nebo p\u0159\u00EDklad\u003C/p\u003E\u003Cp\u003EKomentujte podle va\u0161ich skute\u010Dn\u00FDch zku\u0161enost\u00ED\u003C/p\u003E\u003Cp\u003ENespamujte\u003C/p\u003E"
+   },
+   "ratingwindow_editcomment": {
+      "description": "",
+      "message": "Upravit koment\u00E1\u0159"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_fulllist": {
+      "description": "",
+      "message": "zobrazit \u00FApln\u00FD seznam"
+   },
+   "ratingwindow_guide": {
+      "description": "",
+      "message": "Prohl\u00EDdka"
+   },
+   "ratingwindow_invite_rw": {
+      "description": "",
+      "message": "Pou\u017E\u00EDv\u00E1n\u00EDm toho n\u00E1stroje m\u016F\u017Eete hodnotit webov\u00E9 str\u00E1nky. Pro vyj\u00E1d\u0159en\u00ED nakolik d\u016Fv\u011B\u0159ujete webov\u00E9 str\u00E1nce klikn\u011Bte na barevn\u00E9 pruhy."
+   },
+   "ratingwindow_morecats": {
+      "description": "",
+      "message": "v\u00EDce"
+   },
+   "ratingwindow_myrating": {
+      "message": "Moje hodnocen\u00ED"
+   },
+   "ratingwindow_newversion": {
+      "message": "K dispozici je nov\u00E1 verze - kliknut\u00EDm sem prove\u010Fte aktualizaci"
+   },
+   "ratingwindow_novoted": {
+      "description": "",
+      "message": "Klikn\u011Bte zde pro poskytnut\u00ED d\u016Fvodu pro va\u0161eho hodnocen\u00ED tak, \u017Ee vyberete kategorii"
+   },
+   "ratingwindow_profile": {
+      "description": "",
+      "message": "M\u016Fj profil"
+   },
+   "ratingwindow_question0": {
+      "description": "",
+      "message": "Nakolik v\u011B\u0159\u00EDte t\u00E9to str\u00E1nce?"
+   },
+   "ratingwindow_question4": {
+      "description": "",
+      "message": "Je str\u00E1nka vhodn\u00E1 pro d\u011Bti?"
+   },
+   "ratingwindow_rerate_category": {
+      "description": "TODO: TRANSLATE",
+      "message": " "
+   },
+   "ratingwindow_rerate_change": {
+      "description": "",
+      "message": "zm\u011Bnit"
+   },
+   "ratingwindow_settings": {
+      "message": "Nastaven\u00ED"
+   },
+   "ratingwindow_thankyou": {
+      "description": "",
+      "message": "D\u011Bkujeme za sd\u00EDlen\u00ED va\u0161\u00ED zku\u0161enosti!"
+   },
+   "ratingwindow_viewscorecard": {
+      "description": "",
+      "message": "Zobrazit detaily a koment\u00E1\u0159e"
+   },
+   "ratingwindow_vote_no": {
+      "description": "",
+      "message": "Ne"
+   },
+   "ratingwindow_vote_yes": {
+      "description": "",
+      "message": "Ano"
+   },
+   "ratingwindow_wotrating": {
+      "description": "",
+      "message": "Reputace webov\u00E9 str\u00E1nky zalo\u017Een\u00E1 na hodnocen\u00ED u\u017Eivatel\u016F"
+   },
+   "reputationlevels_r0": {
+      "description": "",
+      "message": "Nezn\u00E1m\u00FD"
+   },
+   "reputationlevels_r1": {
+      "message": "Velmi \u0161patn\u00E1"
+   },
+   "reputationlevels_r2": {
+      "message": "\u0160patn\u00E1"
+   },
+   "reputationlevels_r3": {
+      "message": "Neuspokojiv\u00E1"
+   },
+   "reputationlevels_r4": {
+      "message": "Dobr\u00E1"
+   },
+   "reputationlevels_r5": {
+      "message": "Excelentn\u00ED"
+   },
+   "testimony_0_levels_r0": {
+      "description": "",
+      "message": "Klik. na hodnot. pruh"
+   },
+   "testimony_0_levels_r1": {
+      "description": "",
+      "message": "Ned\u016Fv\u011B\u0159uji"
+   },
+   "testimony_0_levels_r2": {
+      "description": "",
+      "message": "Ned\u016Fv\u011B\u0159uji"
+   },
+   "testimony_0_levels_r3": {
+      "description": "",
+      "message": "je to podez\u0159el\u00E9"
+   },
+   "testimony_0_levels_r4": {
+      "description": "",
+      "message": "D\u016Fv\u011B\u0159uji"
+   },
+   "testimony_0_levels_r5": {
+      "description": "",
+      "message": "D\u016Fv\u011B\u0159uji"
+   },
+   "testimony_4_levels_r0": {
+      "description": "",
+      "message": "Klik. na hodnot. pruh"
+   },
+   "testimony_4_levels_r1": {
+      "description": "",
+      "message": "nevhodn\u00E9"
+   },
+   "testimony_4_levels_r2": {
+      "description": "",
+      "message": "nevhodn\u00E9"
+   },
+   "testimony_4_levels_r3": {
+      "description": "",
+      "message": "bu\u010Fte opatrn\u00ED"
+   },
+   "testimony_4_levels_r4": {
+      "description": "",
+      "message": "vhodn\u00E9"
+   },
+   "testimony_4_levels_r5": {
+      "description": "",
+      "message": "vhodn\u00E9"
+   },
+   "testimony_delete": {
+      "description": "",
+      "message": "smazat"
+   },
+   "testimony_unrated": {
+      "description": "",
+      "message": "\u017E\u00E1dn\u00FD n\u00E1zor"
+   },
+   "warning": {
+      "description": "imported from firefox add-on",
+      "message": "Varov\u00E1n\u00ED WOT: %S"
+   },
+   "warning_button": {
+      "description": "imported from firefox add-on",
+      "message": "Podrobnosti hodnocen\u00ED"
+   },
+   "warnings_back": {
+      "message": "Vr\u00E1tit se zp\u011Bt"
+   },
+   "warnings_blocked": {
+      "description": "imported from firefox add-on",
+      "message": "Zablokov\u00E1no"
+   },
+   "warnings_goto": {
+      "message": "Pokra\u010Dovat"
+   },
+   "warnings_information": {
+      "description": "",
+      "message": "Zobrazit detaily a koment\u00E1\u0159e"
+   },
+   "warnings_leave": {
+      "description": "",
+      "message": "Ukon\u010Dit"
+   },
+   "warnings_message_rating": {
+      "description": "imported from firefox add-on",
+      "message": "Dali jste t\u00E9to str\u00E1nce \u0161patn\u00E9 hodnocen\u00ED."
+   },
+   "warnings_message_reputation": {
+      "description": "imported from firefox add-on",
+      "message": "Reputace t\u00E9to str\u00E1nky je \u0161patn\u00E1."
+   },
+   "warnings_noreasontitle": {
+      "description": "",
+      "message": "U\u017Eivatel\u00E9 tuto str\u00E1nku je\u0161t\u011B neidentifikovali a pouze ji ohodnotili."
+   },
+   "warnings_othersreasontitle": {
+      "description": "",
+      "message": "N\u00E1zory ostatn\u00EDch u\u017Eivatel\u016F"
+   },
+   "warnings_ratesite": {
+      "description": "",
+      "message": "Pokud d\u016Fv\u011B\u0159ujete t\u00E9to str\u00E1nce, pak ji, pros\u00EDm, \u003Ca\u003Eohodno\u0165te\u003C/a\u003E"
+   },
+   "warnings_rating": {
+      "message": "Dali jste t\u00E9to str\u00E1nce \u0161patn\u00E9 hodnocen\u00ED, co\u017E spustilo varov\u00E1n\u00ED"
+   },
+   "warnings_reasontitle": {
+      "description": "",
+      "message": "U\u017Eivatel\u00E9 identifikovali n\u00E1sleduj\u00EDc\u00ED probl\u00E9my"
+   },
+   "warnings_reputation": {
+      "message": "Reputace t\u00E9to str\u00E1nky je \u0161patn\u00E1"
+   },
+   "warnings_reratesite": {
+      "description": "",
+      "message": "\u003Ca\u003EKlikn\u011Bte zde\u003C/a\u003E, pokud chcete znovu ohodnotit tuto str\u00E1nku"
+   },
+   "warnings_unknown": {
+      "message": "Hodnocen\u00ED t\u00E9to str\u00E1nky nen\u00ED zn\u00E1mo"
+   },
+   "warnings_warning": {
+      "message": "Varov\u00E1n\u00ED!"
+   },
+   "wt_donut_btn": {
+      "description": "",
+      "message": "Ano, rozum\u00EDm tomu"
+   },
+   "wt_donut_msg": {
+      "description": "",
+      "message": "\u003Cp\u003EWOT V\u00E1m ukazuje reputaci webov\u00FDch str\u00E1nek na z\u00E1klad\u011B zku\u0161enost\u00ED ostatn\u00EDch u\u017Eivatel\u016F pomoc\u00ED ikon ve stylu dopravn\u00EDho semaforu.\u003C/p\u003E\u003Cp\u003EP\u0159eje\u010Fte my\u0161\u00ED p\u0159es ikonu k zobrazen\u00ED reputac\u00ED a jejich p\u0159\u00ED\u010Din.\u003C/p\u003E"
+   },
+   "wt_intro_0_btn": {
+      "description": "",
+      "message": "Ano, rozum\u00EDm tomu"
+   },
+   "wt_intro_0_msg": {
+      "description": "",
+      "message": "\u003Cimg src='{ADDON_BASEURI}skin/b/welcometips/wt_intro_0.png' width='196px' h eight='40px'/\u003E\u003Cp\u003ENov\u00FD WOT byl p\u0159id\u00E1n do Va\u0161eho prohl\u00ED\u017Ee\u010De.\u003C/p\u003E\u003Cp\u003EZa\u010Dn\u011Bte hodnotit webov\u00E9 str\u00E1nky kliknut\u00EDm na tuto ikonu {ICO1}\u003C/p\u003E\u003Cp\u003E{WT_LEARNMORE}\u003C/p\u003E"
+   },
+   "wt_learnmore_link": {
+      "description": "",
+      "message": "\u003Ca id='wt-learnmore-link'\u003EDov\u011Bzte se v\u00EDce\u003C/a\u003E o WOT."
+   },
+   "wt_rw_text": {
+      "description": "",
+      "message": "\u003Cp\u003EOkno WOT hodnocen\u00ED V\u00E1m uk\u00E1\u017Ee reputaci webov\u00E9 str\u00E1nky na z\u00E1klad\u011B zku\u0161enost\u00ED ostatn\u00EDch u\u017Eivatel\u016F. Nyn\u00ED je mo\u017En\u00E9 ohodnotit a poskytnout koment\u00E1\u0159 p\u0159\u00EDmo z aktualizovan\u00E9ho okna. Za\u010Dn\u011Bte hodnotit kliknut\u00EDm na barevn\u00E9 pruhy.\u003C/p\u003E\u003Cp class='wot-c'\u003E\u003Ca id='wt-learnmore-link'\u003EDov\u011Bzte se v\u00EDce\u003C/a\u003E o WOT.\u003C/p\u003E"
+   },
+   "wt_rw_text_hdr": {
+      "description": "",
+      "message": "Sd\u00EDlejte va\u0161e zku\u0161enosti!"
+   },
+   "wt_warning_ok": {
+      "description": "",
+      "message": "Ano, rozum\u00EDm tomu"
+   },
+   "wt_warning_text": {
+      "description": "",
+      "message": "\u003Cp\u003EWOT V\u00E1s varuje, pokud nav\u0161t\u00EDv\u00EDte str\u00E1nku se \u0161patnou reputac\u00ED na z\u00E1klad\u011B hodnocen\u00ED ostatn\u00EDch u\u017Eivatel\u016F nebo na z\u00E1klad\u011B \u010Dern\u00FDch listin t\u0159et\u00EDch osob. Varov\u00E1n\u00ED tak\u00E9 uk\u00E1\u017Ee d\u016Fvod \u0161patn\u00E9 reputace.\u003C/p\u003E\u003Cp\u003E{WT_LEARNMORE}\u003C/p\u003E\u003Cp\u003EPokud nechcete vid\u011Bt tyto varov\u00E1n\u00ED, pak je m\u016F\u017Eete vypnout. \u003C/p\u003E"
+   },
+   "wt_warning_turnoff": {
+      "description": "",
+      "message": "Vypnout varov\u00E1n\u00ED"
+   }
+}
